@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://learana.heroku.com'),
+    'url' => env('APP_URL', 'https://learana.herokuapp.com/'),
 
     /*
     |--------------------------------------------------------------------------
