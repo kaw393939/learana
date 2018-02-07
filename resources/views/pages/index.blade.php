@@ -1,62 +1,6 @@
-@extends('layouts.home')
+@extends('layouts.landing')
 @section('content')
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#myCarousel" data-slide-to="1"></li>
-            <li data-target="#myCarousel" data-slide-to="2"></li>
-        </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img class="first-slide"
-                     src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-                     alt="First slide">
-                <div class="container">
-                    <div class="carousel-caption text-left">
-                        <h1>Everyone has something to learn. Everyone has something to teach.</h1>
-                        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta
-                            gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img class="second-slide"
-                     src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-                     alt="Second slide">
-                <div class="container">
-                    <div class="carousel-caption">
-                        <h1>Create a learning experience</h1>
-                        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta
-                            gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
-                    </div>
-                </div>
-            </div>
-            <div class="carousel-item">
-                <img class="third-slide"
-                     src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-                     alt="Third slide">
-                <div class="container">
-                    <div class="carousel-caption text-right">
-                        <h1>Monetize your knowledge.</h1>
-                        <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta
-                            gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-
+    @include('includes.jumbotron')
 
     <!-- Marketing messaging and featurettes
     ================================================== -->
@@ -66,12 +10,12 @@
 
         <!-- Three columns of text below the carousel -->
         <div class="row">
-            <div class="col-lg-4">
+            <div class="col-lg-4 ">
                 <img class="rounded-circle"
                      src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-                     alt="Generic placeholder image" width="140" height="140">
+                     alt="Generic placeholder image" width="70" height="70">
                 <h2>Analytics</h2>
-                <p>We provide information that will help you improve your course content and identify opportunities to
+                <p class="text-left">We provide information that will help you improve your course content and identify opportunities to
                     help your students. You want to know which students have progressed through your materials, how
                     engaged students are with your content, and if they are prepared for your next class. Learana
                     provides you with the usage data about your content, alerts you when a learner is struggling, and
@@ -81,9 +25,9 @@
             <div class="col-lg-4">
                 <img class="rounded-circle"
                      src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-                     alt="Generic placeholder image" width="140" height="140">
+                     alt="Generic placeholder image" width="70" height="70">
                 <h2>Automation</h2>
-                <p>We provide virtual teaching and administrative assistants that help you save time, teach effectively,
+                <p class="text-left">We provide virtual teaching and administrative assistants that help you save time, teach effectively,
                     and make money. Our teaching assistants monitor course content usage and automate processes needed
                     to use online chat and webinars. Our virtual assistants are available through popular messaging
                     platforms such as Slack and Facebook.</p>
@@ -92,9 +36,9 @@
             <div class="col-lg-4">
                 <img class="rounded-circle"
                      src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-                     alt="Generic placeholder image" width="140" height="140">
+                     alt="Generic placeholder image" width="70" height="70">
                 <h2>Monetization</h2>
-                <p>We help you monetize your knowledge and reputation by providing high quality personalized learning
+                <p class="text-left">We help you monetize your knowledge and reputation by providing high quality personalized learning
                     experiences for learners. We provide an online marketplace for independent educators such as
                     personal trainers, coaches, and social media influencers. We provide the option to participate in
                     our marketplace, or to use services within your existing business or school.</p>
@@ -181,16 +125,16 @@
             <div class="col-md-7">
                 <h2 class="featurette-heading">Accountability in Learning</h2>
 
-                    <p class="lead">Frequently learners fail to complete self paced courses that consist of only
-                        recorded content and documents. Learners are more more likely to complete online courses when
-                        they are led by a knowledgeable and motivated educator. Our platform connects popular tools used
-                        to teach online through chat, webinars, and other tools that help you connect with your
-                        students. (Link to tools)
+                <p class="lead">Frequently learners fail to complete self paced courses that consist of only
+                    recorded content and documents. Learners are more more likely to complete online courses when
+                    they are led by a knowledgeable and motivated educator. Our platform connects popular tools used
+                    to teach online through chat, webinars, and other tools that help you connect with your
+                    students. (Link to tools)
 
-                        We create personalized reminders for learners based on their engagement with course content.
-                        These reminders help learners make more informed decisions about their education. We help
-                        students understand how long it will take them to complete course content and how they compare
-                        to others.</p>
+                    We create personalized reminders for learners based on their engagement with course content.
+                    These reminders help learners make more informed decisions about their education. We help
+                    students understand how long it will take them to complete course content and how they compare
+                    to others.</p>
             </div>
 
         </div>

@@ -14,7 +14,13 @@
 Route::get('/', function () {
     return view('pages.index');
 });
+Route::get('/about', function () {
+    return view('pages.about');
+});
 
+Route::get('/blog', function () {
+    return view('pages.blog');
+});
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();
