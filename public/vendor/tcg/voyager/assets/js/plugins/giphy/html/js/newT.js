@@ -389,7 +389,7 @@
       _last_name = new_name;
       return this;
     }
-  }
+  };
   
   if (typeof module !== "undefined" && module.exports != null) {
     module.exports = new T();

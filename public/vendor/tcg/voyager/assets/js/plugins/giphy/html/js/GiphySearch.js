@@ -154,7 +154,7 @@ var GiphySearch = {
         window.unonload = function() {
             //console.log("closed!");
             // chrome.contextMenus.removeAll();
-        }
+        };
 
         jQuery("#container").on("click", "#gif-detail-link", function(event) {
             // copy to clipboard..
@@ -189,7 +189,7 @@ var GiphySearch = {
         GiphySearch.render_completed = function() {
             // //console.log("foo!");
             jQuery("#searchbar-input").focus();
-        }
+        };
 
         // load chrome!
         chrome.contextMenus.create({
@@ -831,7 +831,7 @@ var GiphySearch = {
                 }
             }
             
-            var dataTags = _dataTags.join(",")
+            var dataTags = _dataTags.join(",");
             var gif_height = Math.floor((gif.images.fixed_width.height * GiphySearch.MAX_GIF_WIDTH / gif.images.fixed_width.width));
             var _li = newT.li({
                         clss:"giphy_gif_li",
@@ -869,7 +869,7 @@ var GiphySearch = {
             ////console.log(_li);    
                 
             _frag.appendChild(_li);
-            elem_array.push(_li)
+            elem_array.push(_li);
             
             // increment the num gifs
             GiphySearch.curGifsNum++; // why? really seriously why?
@@ -941,4 +941,4 @@ var GiphySearch = {
         });
         return xhr;
     }
-}
+};

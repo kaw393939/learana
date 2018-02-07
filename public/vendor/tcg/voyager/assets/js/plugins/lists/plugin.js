@@ -1132,7 +1132,7 @@ define(
       Tools.each(emptyListItems, function (li) {
         if (NodeType.isEmpty(editor.dom, li)) {
           Outdent.outdent(editor, li);
-          return;
+
         }
       });
 
