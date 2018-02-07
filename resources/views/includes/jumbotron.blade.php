@@ -7,7 +7,7 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="first-slide"
-                 src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+                 src="//placehold.it/1010x367"
                  alt="First slide">
             <div class="container">
                 <div class="carousel-caption text-left">
@@ -19,7 +19,7 @@
         </div>
         <div class="carousel-item">
             <img class="second-slide"
-                 src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+                 src="//placehold.it/1010x367"
                  alt="Second slide">
             <div class="container">
                 <div class="carousel-caption text-left">
@@ -31,7 +31,7 @@
         </div>
         <div class="carousel-item">
             <img class="third-slide"
-                 src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+                 src="//placehold.it/1010x367"
                  alt="Third slide">
             <div class="container">
                 <div class="carousel-caption text-right">
