@@ -14,7 +14,7 @@
         </p>
         <p>We provide our core features to everyone for free, so everyone can benefit from
             our tools. We make money by providing tools that help you monetize your knowledge. (Link to
-            Monetize Your Knowledge)</p>
+            Monetize Your Knowledge)
         </p>
     </div>
 
