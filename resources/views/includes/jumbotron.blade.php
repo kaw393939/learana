@@ -13,7 +13,7 @@
                 <div class="carousel-caption text-left">
                     <h1>Everyone has something to teach. Everyone has something to learn.</h1>
                     <p>Meet Learana, where you can teach and learn online from real people</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Join our Community</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Become a Teacher</a></p>
                 </div>
             </div>
         </div>
@@ -25,7 +25,7 @@
                 <div class="carousel-caption text-left">
                     <h1>Create a learning experience</h1>
                     <p>Combine recorded course content with real-time chat and web conferencing to create a personalized learning experiences</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Create</a></p>
                 </div>
             </div>
         </div>
@@ -37,7 +37,7 @@
                 <div class="carousel-caption text-right">
                     <h1>Monetize your knowledge.</h1>
                     <p>Earn money by teaching what you love</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Start today</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn How</a></p>
                 </div>
             </div>
         </div>

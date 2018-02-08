@@ -9,7 +9,7 @@
         <main role="main">
              @yield('content')
         </main>
-        <footer class="container-fluid bg-dark text-white text-center">
+        <footer class="container-fluid bg-dark text-white text-justify">
             <div class="container">
                 @include('includes.footer')
             </div>

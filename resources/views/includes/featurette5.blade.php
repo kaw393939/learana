@@ -1,5 +1,5 @@
 <div class="row featurette">
-    <div class="card col-md-7">
+    <div class="card col-md-7 mt-4 mb-4">
         <h2 class="featurette-heading">Educators</h2>
         <p>Learana analyzes content usage to help you understand learner engagement. We use this data to provide advice
             on ways to improve the learning experience. (Link to Analytics). We also use this information to automate

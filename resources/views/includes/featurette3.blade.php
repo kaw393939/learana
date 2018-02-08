@@ -1,6 +1,6 @@
 
 <div class="row featurette">
-    <div class="card col-md-7">
+    <div class="card col-md-7 mt-4 mb-4">
         <h2 class="featurette-heading">Accountability in Learning</h2>
 
         <p class="lead">Frequently learners fail to complete self paced courses that consist of only

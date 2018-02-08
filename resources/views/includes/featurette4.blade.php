@@ -1,5 +1,5 @@
 <div class="row featurette">
-    <div class="card col-md-7">
+    <div class="card col-md-7 mt-4 mb-4">
         <h2 class="featurette-heading">Mission<span class="text-muted"> - Make education more affordable.</span></h2>
         <p class="lead">Learana exists to help people achieve their goals through education, assisting both
             educators and learners. Our mission is to help people create a better future for themselves by
