@@ -12,6 +12,7 @@
     <!-- /.row -->
         <!-- START THE FEATURETTES -->
     </div>
+    <hr class="featurette-divider">
     <div class="container-fluid bg-primary">
         <div class="container">
             @include('includes.featurette1')

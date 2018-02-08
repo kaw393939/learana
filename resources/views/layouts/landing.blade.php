@@ -8,18 +8,14 @@
         @include('includes.header')
         <main role="main">
              @yield('content')
-
         </main>
-
-
         <footer class="container-fluid bg-dark text-white text-center">
             <div class="container">
                 @include('includes.footer')
             </div>
         </footer>
-
-
     </div>
     @include('includes.jsfooter')
+
 </body>
 </html>
