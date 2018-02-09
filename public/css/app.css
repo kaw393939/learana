@@ -3,11 +3,22 @@
 /* Padding below the footer and lighter body text */
 
 body {
-    padding-top: 4rem;
+    padding-top: 3.4rem;
     padding-bottom: 3rem;
     color: #5a5a5a;
 }
 
+.MarketplaceJumbotron {
+    background-color: #2f363d;
+
+}
+.whyJumbotron {
+    background-color: #f5f5f5;
+
+}
+.whyJumbotron h1, .whyJumbotron h2, .whyJumbotron h3, p {
+    color: #323648;
+}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -57,7 +68,7 @@ body {
 ------------------------- */
 
 .featurette-divider {
-    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+    margin: 2rem 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -150,8 +161,16 @@ body {
     background-color: #404040;
 }
 .shadow {
-    box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2), 0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
-    transition: box-shadow 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+.card-img-top {
+    background: #563d7c;
+    padding: 2em 1em;
+    color: #fff;
+    margin-bottom: 2em;
+}
+.card {
+    font-weight: 200;
 }
 
 /* RESPONSIVE CSS
@@ -172,6 +191,6 @@ body {
 
 @media (min-width: 62em) {
     .featurette-heading {
-        margin-top: 7rem;
+        margin-top: 3rem;
     }
 }

@@ -29,6 +29,12 @@ Route::get('/why-learana', function () {
 Route::get('/discover', function () {
     return view('pages.discover');
 });
+Route::get('/login', function () {
+    return view('pages.login');
+});
+Route::get('/signup', function () {
+    return view('pages.signup');
+});
 
 Route::group(['prefix' => 'admin'], function () {
     Voyager::routes();

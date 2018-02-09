@@ -1,53 +1,71 @@
 @extends('layouts.content')
 @section('content')
-    <div class="row">
-        <div class="col-8">
 
-            <h1>About</h1>
-            <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sodales mauris eget
-            mauris imperdiet, tempor vestibulum ligula elementum. Duis ut imperdiet dui, semper rhoncus nisl. Sed velit
-            mi, tempus et tincidunt sed, viverra id sem. Duis malesuada congue mauris a lacinia. Duis consectetur vel
-            urna ac ultricies. In eget enim ut risus venenatis dignissim in et eros. Fusce non sem eget velit posuere
-            finibus. In purus erat, molestie et eros id, condimentum euismod elit.
-            </p>
-            <p>
-            Sed sodales urna sit amet enim euismod, ut tempus felis tincidunt. Morbi finibus metus vel congue elementum.
-            Pellentesque turpis tellus, tristique ut tincidunt ac, malesuada nec nisi. Maecenas fermentum vel risus
-            luctus suscipit. Aenean ac sem ultrices, dictum eros id, porta nisi. Nullam euismod sit amet neque eu
-            lobortis. Aliquam erat volutpat. Cras vehicula feugiat nulla, non maximus velit sagittis sed. Etiam
-            convallis imperdiet accumsan.
-            </p>
-            <p>
-            Duis ipsum odio, fermentum ut nisi sed, posuere dignissim tellus. In quis posuere urna. Quisque tempor
-            pulvinar libero nec sollicitudin. Vivamus sed tellus erat. Ut ac ultricies erat, in mattis massa. Proin
-            ultrices, velit ac dignissim tempor, enim leo venenatis nulla, ut porttitor lorem neque sit amet magna. Nam
-            sit amet tincidunt massa. Suspendisse scelerisque lacus eu porta consectetur. In eget elit ac magna
-            pellentesque mattis non non lacus. Maecenas semper facilisis commodo. Phasellus fermentum consectetur
-            dignissim. Nulla faucibus blandit facilisis. Quisque volutpat facilisis dictum.
-            </p>
-            <p>
-            Ut congue feugiat felis, scelerisque posuere odio porttitor id. Mauris molestie et sapien ut pretium.
-            Suspendisse sodales, turpis ut pellentesque volutpat, urna risus tempor lorem, vel posuere leo est vitae
-            neque. Donec aliquam mi et pellentesque elementum. Maecenas dignissim quis nulla ut efficitur. Praesent
-            blandit sagittis lorem, eu efficitur lacus ultrices vel. Quisque vel eros non odio cursus efficitur at quis
-            metus. Vestibulum tincidunt consequat felis vel dapibus. Donec molestie in mauris et tincidunt. Quisque
-            vitae tristique lorem, interdum blandit massa. Phasellus semper interdum elementum. Fusce at posuere tellus.
-            Nunc non tincidunt magna.
-            </p>
-            <p>
-            Donec malesuada accumsan purus quis dictum. Nam nulla dui, iaculis eget accumsan vel, fermentum convallis
-            lacus. Pellentesque ac feugiat nunc. Sed congue accumsan aliquet. Pellentesque sodales sit amet quam sed
-            sollicitudin. Praesent blandit enim ut finibus eleifend. Nam commodo, elit nec maximus fringilla, dui turpis
-            interdum libero, non semper ipsum risus in nulla. Donec at tristique ipsum, id consectetur ex. Maecenas
-            vulputate metus ac libero faucibus egestas. Donec lacus elit, rhoncus vel vehicula a, pulvinar et leo. Morbi
-            consectetur diam quam, varius scelerisque nunc consequat venenatis. Pellentesque habitant morbi tristique
-            senectus et netus et malesuada fames ac turpis egestas. Nunc efficitur ante ac erat sollicitudin mattis.
-            </p>
-            <p>
+    <!-- Page Content -->
+    <div class="container">
+
+        <div class="row">
+
+            <!-- Post Content Column -->
+            <div class="col-md-8">
+
+                <!-- Title -->
+                <h1 class="mt-4">About Learana</h1>
+
+                <!-- Author -->
+                <p class="lead">
+                    by
+                    <a href="#">Start Bootstrap</a>
+                </p>
+
+                <hr>
+
+                <!-- Post Content -->
+                <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus, vero, obcaecati, aut, error quam sapiente nemo saepe quibusdam sit excepturi nam quia corporis eligendi eos magni recusandae laborum minus inventore?</p>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, tenetur natus doloremque laborum quos iste ipsum rerum obcaecati impedit odit illo dolorum ab tempora nihil dicta earum fugiat. Temporibus, voluptatibus.</p>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, doloribus, dolorem iusto blanditiis unde eius illum consequuntur neque dicta incidunt ullam ea hic porro optio ratione repellat perspiciatis. Enim, iure!</p>
+
+                <blockquote class="blockquote">
+                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                    <footer class="blockquote-footer">Someone famous in
+                        <cite title="Source Title">Source Title</cite>
+                    </footer>
+                </blockquote>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, nostrum, aliquid, animi, ut quas placeat totam sunt tempora commodi nihil ullam alias modi dicta saepe minima ab quo voluptatem obcaecati?</p>
+
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, dolor quis. Sunt, ut, explicabo, aliquam tenetur ratione tempore quidem voluptates cupiditate voluptas illo saepe quaerat numquam recusandae? Qui, necessitatibus, est!</p>
+
+                <hr>
+            </div>
+
+            <!-- Sidebar Widgets Column -->
+            <div class="col-md-4">
+
+                <!-- Search Widget -->
+                <div class="card my-4">
+                    <h5 class="card-header">About The Company</h5>
+                    <div class="card-body">
+                       Put company info here
+                    </div>
+                </div>
+
+
+                <!-- Side Widget -->
+                <div class="card my-4">
+                    <h5 class="card-header">Side Widget</h5>
+                    <div class="card-body">
+                        You can put anything you want inside of these side widgets. They are easy to use, and feature the new Bootstrap 4 card containers!
+                    </div>
+                </div>
+
+            </div>
+
         </div>
-        <div class="col-4">
-            @include('includes.sidebar')
-        </div>
+        <!-- /.row -->
+
     </div>
+
 @stop
