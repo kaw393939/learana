@@ -35,7 +35,7 @@
                         <h3 class="h2 no-wrap js-hero-listing-name text-gray-dark">Instructor Led Courses</h3>
                     </div>
                     <p class="MarketplaceFeature-text text-white text-center px-3 lh-condensed js-hero-listing-description">
-                        Signup for a class with a knowledgeable teacher and have access to real-time chat in small groups and live webinars/p>
+                        Signup for a class with a knowledgeable teacher and have access to real-time chat in small groups and live webinars</p>
                 </a>
             </div>
 
