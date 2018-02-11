@@ -18,15 +18,15 @@ Route::get('/meet-learana', function () {
     return view('pages.meet-learana');
 });
 
-Route::get('/blog', function () {
-    return view('pages.blog');
+Route::get('/connect', function () {
+    return view('pages.connect');
 });
 
 Route::get('/why-learana', function () {
     return view('pages.why');
 });
 
-Route::get('/discover', function () {
+Route::get('/discover-online-courses', function () {
     return view('pages.discover');
 });
 Route::get('/login', function () {

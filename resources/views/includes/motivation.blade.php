@@ -1,7 +1,7 @@
 
 <div class="row featurette">
-    <div class="card col-md-7 mt-4 mb-4">
-        <h2 class="featurette-heading">Accountability in Learning</h2>
+    <div class="card col-md-12 text-justify mt-4 mb-4 ">
+        <h2 class="featurette-heading">Motivation</h2>
 
         <p class="lead">Frequently learners fail to complete self paced courses that consist of only
             recorded content and documents. Learners are more more likely to complete online courses when

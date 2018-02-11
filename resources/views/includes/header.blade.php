@@ -19,10 +19,10 @@
                         <a class="nav-link" href="/why-learana">Why Learana?</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/discover">Discover</a>
+                        <a class="nav-link" href="/discover-online-courses">Discover</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/blog">Blog</a>
+                        <a class="nav-link" href="/connect">Connect</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/login">Login</a>

@@ -1,10 +1,10 @@
 @extends('layouts.landing')
 @section('content')
 
-    <div class="row ml-auto mr-auto topCallout">
+    <div class="row ml-auto mr-auto bgDark">
         <div class="container justify-content-center ">
-            <h1 class="text-center text-white">Monetize your Knowledge</h1>
-            <p class="text-center text-white">Share your experience with others.</p>
+            <h1 class="text-center text-white">Share your experience with others.</h1>
+            <p class="text-center text-white">Monetize your Knowledge</p>
             <div class="card-deck">
                 <div class="card mb-3 pb-3">
                     <img class="card-img-top img-fluid" src="//placehold.it/500x280" alt="Card image cap">
@@ -36,16 +36,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
-    <div class="row">
-        <hr class="featurette-divider">
-        <div class="container-fluid">
-            <div class="container">
-                @include('includes.what')
-            </div>
-            <hr class="featurette-divider">
-            <!-- /END THE FEATURETTES -->
         </div>
     </div>
     <div class="row">

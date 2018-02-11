@@ -1,5 +1,4 @@
-<div class="row featurette">
-    <div class="card col-md-12 mt-4 mb-4">
+<div class="row  col-md-12 mt-4 mb-4 featurette">
         <h2 class="featurette-heading">Why are we called Learana?</h2>
         <p class="lead">
 
@@ -14,7 +13,7 @@
             provides educational experiences to people.
             (Link to chat and webinars)
         </p>
-    </div>
+
 </div>
 
 

@@ -1,4 +1,4 @@
-<div id="myCarousel" class="carousel topCallout slide" data-ride="carousel">
+<div id="myCarousel" class="carousel bgDark slide" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -23,7 +23,7 @@
                  alt="Second slide">
             <div class="container">
                 <div class="carousel-caption text-left">
-                    <h1>Create a learning experience</h1>
+                    <h1>Understand learner engagement and be more productive.</h1>
                     <p>Combine greate content with real-time chat and web conferencing to create a personalized learning experiences</p>
                     <p><a class="btn btn-lg btn-primary" href="#" role="button">Create</a></p>
                 </div>

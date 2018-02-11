@@ -1,6 +1,6 @@
 @extends('layouts.landing')
 @section('content')
-    <div class="row ml-auto mr-auto topCallout">
+    <div class="row ml-auto mr-auto bgDark">
         <div class="container justify-content-center ">
             <h1 class="text-center text-white">Discover Learning Experiences</h1>
             <p class="text-center text-white">Achieve your goals</p>
@@ -9,29 +9,28 @@
                     <img class="card-img-top img-fluid" src="//placehold.it/500x280" alt="Card image cap">
                     <div class="card-block pl-3 pr-3">
                         <h4 class="card-title">Solo</h4>
-                        <p class="card-text">Solo are self paced courses</p>
+                        <p class="card-text">Solo are self paced courses that consist of currated resources and instructions that save you time searching for what to learn about a subject.</p>
                     </div>
                 </div>
                 <div class="card shadow mb-3  pb-3">
                     <img class="card-img-top img-fluid" src="//placehold.it/500x280" alt="Card image cap">
                     <div class="card-block pl-3 pr-3">
                         <h4 class="card-title">One on One</h4>
-                        <p class="card-text">One on one are for tutors</p>
+                        <p class="card-text">Is for 1-1 interactions through webconferencing, in person meetings, and online chat.(Slack and FacebooK)</p>
                     </div>
                 </div>
                 <div class="card mb-3 pb-3 ">
                     <img class="card-img-top img-fluid" src="//placehold.it/500x280" alt="Card image cap">
                     <div class="card-block pl-3 pr-3">
-                        <h4 class="card-title">Small Group</h4>
-                        <p class="card-text">study groups
-                        </p>
+                        <h4 class="card-title">Small Group Courses</h4>
+                        <p class="card-text">Is for a  group interactions through webconferencing, in person meetings, and online chat.(Slack and FacebooK)</p>
                     </div>
                 </div>
                 <div class="card mb-3 pb-3 ">
                     <img class="card-img-top img-fluid" src="//placehold.it/500x280" alt="Card image cap">
                     <div class="card-block pl-3 pr-3">
                         <h4 class="card-title">Webinars</h4>
-                        <p class="card-text">Lare groups that meet through web conferencing</p>
+                        <p class="card-text">Lare groups that meet through web conferencing and online chat (Slack and FacebooK)</p>
                     </div>
                 </div>
             </div>

@@ -1,7 +1,7 @@
 @extends('layouts.landing')
 @section('content')
     <div class="container">
-        <div id="myCarousel" class="carousel topCallout slide" data-ride="carousel">
+        <div id="myCarousel" class="carousel bgDark slide" data-ride="carousel">
             <ol class="carousel-indicators">
                 <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
                 <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -22,25 +22,24 @@
                 </div>
                 <div class="carousel-item">
                     <img class="second-slide"
-                         src="//placehold.it/1010x367"
+                         src="..."
                          alt="Second slide">
                     <div class="container">
                         <div class="carousel-caption text-left">
-                            <h1>Create a learning experience</h1>
-                            <p>Combine greate content with real-time chat and web conferencing to create a personalized
-                                learning experiences</p>
+                            <h1>Understand Learner Enagement</h1>
+                            <p>Be more productive and understand learner enagement</p>
                             <p><a class="btn btn-lg btn-primary" href="#" role="button">Create</a></p>
                         </div>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <img class="third-slide"
-                         src="//placehold.it/1010x367"
+                         src="..."
                          alt="Third slide">
                     <div class="container">
                         <div class="carousel-caption text-right">
                             <h1>Monetize your knowledge.</h1>
-                            <p>Earn money by teaching what you love</p>
+                            <p>By offering access to you through IM and web conferencing </p>
                             <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn How</a></p>
                         </div>
                     </div>
@@ -61,9 +60,9 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
     <div class="container-flex">
         <!-- Three columns of text below the carousel -->
-        <div class="row ml-auto mr-auto topCallout">
+        <div class="row ml-auto mr-auto bgDark">
             <div class="container justify-content-center ">
-                <h1 class="text-center text-white">Online Course Management Services</h1>
+                <h1 class="text-center text-white">On Demand Course Management Services and Marketplace</h1>
                 <p class="text-center text-white"></p>
                 <div class="card-deck">
                     <div class="card mb-3 pb-3">
