@@ -15,8 +15,8 @@
                     <div class="container">
                         <div class="carousel-caption text-left">
                             <h1>Everyone has something to teach. Everyone has something to learn.</h1>
-                            <p>Meet Learana, where you can teach and learn online from real people</p>
-                            <p><a class="btn btn-lg btn-primary" href="#" role="button">Share your knowledge</a></p>
+                            <p>Discover Learning Experiences provided by our Customers</p>
+                            <p><a class="btn btn-lg btn-primary" href="/discover-online-courses" role="button">Discover</a></p>
                         </div>
                     </div>
                 </div>
@@ -27,8 +27,8 @@
                     <div class="container">
                         <div class="carousel-caption text-left">
                             <h1>Understand Learner Enagement</h1>
-                            <p>Be more productive and understand learner enagement</p>
-                            <p><a class="btn btn-lg btn-primary" href="#" role="button">Create</a></p>
+                            <p>Learn how Learana can improve learning outcomes and increase productivity.</p>
+                            <p><a class="btn btn-lg btn-primary" href="/meet-learana" role="button">Meet Learana</a></p>
                         </div>
                     </div>
                 </div>
@@ -38,9 +38,9 @@
                          alt="Third slide">
                     <div class="container">
                         <div class="carousel-caption text-right">
-                            <h1>Monetize your knowledge.</h1>
-                            <p>By offering access to you through IM and web conferencing </p>
-                            <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn How</a></p>
+                            <h1>Earn more money</h1>
+                            <p>Monetize your knowledge by offering private IM and web conferencing </p>
+                            <p><a class="btn btn-lg btn-primary" href="/why-learana" role="button">Why</a></p>
                         </div>
                     </div>
                 </div>
@@ -58,69 +58,104 @@
     <!-- Marketing messaging and featurettes
 ================================================== -->
     <!-- Wrap the rest of the page in another container to center all the content. -->
-    <div class="container-flex">
-        <!-- Three columns of text below the carousel -->
-        <div class="row ml-auto mr-auto bgDark">
-            <div class="container justify-content-center ">
-                <h1 class="text-center text-white">On Demand Course Management Services and Marketplace</h1>
-                <p class="text-center text-white"></p>
-                <div class="card-deck">
-                    <div class="card mb-3 pb-3">
-                        <div class="card-block pl-3 pr-3">
-                            <img class="card-img-top img-fluid" src="//placehold.it/500x280" alt="Card image cap">
-                            <h5 class="card-title">Teachers and Students</h5>
-                            <lead class="card-body">Free with .edu address</lead>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">Cras justo odio</li>
-                                <li class="list-group-item">Dapibus ac facilisis in</li>
-                                <li class="list-group-item">Vestibulum at eros</li>
-                            </ul>
-                            <h4 class="card-title">Signup</h4>
-                        </div>
-                    </div>
-                    <div class="card mb-3 pb-3">
-                        <div class="card-block pl-3 pr-3">
-                            <img class="card-img-top img-fluid" src="//placehold.it/500x280" alt="Card image cap">
-                            <h5 class="card-title">Individuals</h5>
-                            <lead class="card-body">19.99 or free with Marketplace courses</lead>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">Cras justo odio</li>
-                                <li class="list-group-item">Dapibus ac facilisis in</li>
-                                <li class="list-group-item">Vestibulum at eros</li>
-                            </ul>
-                            <h4 class="card-title">Signup</h4>
-                        </div>
-                    </div>
-                    <div class="card mb-3 pb-3">
-                        <div class="card-block pl-3 pr-3">
-                            <img class="card-img-top img-fluid" src="//placehold.it/500x280" alt="Card image cap">
-                            <h5 class="card-title">Businesses</h5>
-                            <lead class="card-body">$99 a Month</lead>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">Cras justo odio</li>
-                                <li class="list-group-item">Dapibus ac facilisis in</li>
-                                <li class="list-group-item">Vestibulum at eros</li>
-                            </ul>
-                            <h4 class="card-title">Signup</h4>
-                        </div>
-                    </div>
-                    <div class="card mb-3 pb-3">
+    <div class="container">
+        <h1>Features and Pricing</h1>
+        <div class="table-responsive">
+            <table class="table table-bordered">
+                <thead class="bgDark">
+                <tr class="font-weight-bold text-white">
+                    <th scope="col"></th>
+                    <th scope="col"><h4>Students and Teachers</h4></th>
+                    <th scope="col"><h4>Individuals</h4></th>
+                    <th scope="col"><h4>Businesses</h4></th>
+                    <th scope="col"><h4>Enterprise</h4></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <th class="bgDark font-weight-bold text-white" scope="row"><h4>Course Catalog</h4></th>
+                    <td class="font-weight-bold">yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">yes</td>
+                </tr>
+                <tr>
+                    <th class="bgDark font-weight-bold text-white"  scope="row"><h4>Registration</h4></th>
+                    <td class="font-weight-bold">yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                </tr>
+                <tr>
+                    <th class="bgDark font-weight-bold text-white" scope="row"><h4>Enagement Insights</h4></th>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">yes</td>
+                </tr>
+                <tr>
+                    <th class="bgDark font-weight-bold text-white" scope="row"><h4>Scheduling</h4></th>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">yes</td>
+                </tr>
+                <tr>
+                    <th class="bgDark font-weight-bold text-white" scope="row"><h4>Instant Messenger Integration</h4></th>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">yes</td>
+                </tr>
+                <tr>
+                    <th class="bgDark font-weight-bold text-white" scope="row"><h4>Webinar Management</h4></th>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">yes</td>
+                </tr>
 
-                        <div class="card-block pl-3 pr-3">
-                            <img class="card-img-top img-fluid" src="//placehold.it/500x280" alt="Card image cap">
-                            <h5 class="card-title">Enterprise</h5>
-                            <lead class="card-body">Call</lead>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">Cras justo odio</li>
-                                <li class="list-group-item">Dapibus ac facilisis in</li>
-                                <li class="list-group-item">Vestibulum at eros</li>
-                            </ul>
-                            <h4 class="card-title">Signup</h4>
-                        </div>
-                    </div>
-                </div>
-            </div>
+                <tr>
+                    <th class="bgDark font-weight-bold text-white"  scope="row"><h4>Billing</h4></th>
+                    <td class="font-weight-bold">No</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                </tr>
+                <tr>
+                    <th class="bgDark font-weight-bold text-white" scope="row"><h4>Marketing Tools</h4></th>
+                    <td class="font-weight-bold">Optional</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">Yes</td>
+                    <td class="font-weight-bold">yes</td>
+                </tr>
+
+                <tr>
+                    <th class="bgDark font-weight-bold text-white" scope="row"><h4>Learana Branding</h4></th>
+                    <td class="font-weight-bold">Minimal</td>
+                    <td class="font-weight-bold">Optional</td>
+                    <td class="font-weight-bold">Optional</td>
+                    <td class="font-weight-bold">Optional</td>
+                </tr>
+                <tr>
+                    <th class="bgDark font-weight-bold text-white" scope="row"><h4>Marketplace</h4></th>
+                    <td class="font-weight-bold">Hidden</td>
+                    <td class="font-weight-bold">Optional</td>
+                    <td class="font-weight-bold">Optional</td>
+                    <td class="font-weight-bold">Optional</td>
+                </tr>
+                <tr>
+                    <th class="bgDark font-weight-bold text-white" scope="row"><h4>Price</h4></th>
+                    <td class="font-weight-bold">Free for .EDU</td>
+                    <td class="font-weight-bold">$19.95</td>
+                    <td class="font-weight-bold">$100.00</td>
+                    <td class="font-weight-bold">Call</td>
+                </tr>
+                </tbody>
+            </table>
         </div>
+        <!-- Three columns of text below the carousel -->
+
 
 
     </div>

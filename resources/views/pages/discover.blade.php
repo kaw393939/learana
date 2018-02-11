@@ -36,9 +36,16 @@
             </div>
         </div>
     </div>
+x
 
 
     <div class="container">
+        <div class="row">
+
+            <button type="button" class="btn btn-primary">Request a Course</button>
+            <button type="button" class="btn btn-secondary">Create a Course</button>
+            <button type="button" class="btn btn-success">Register for Course</button>
+        </div>
         <div class="row">
 
             <div class="col-md-4">
