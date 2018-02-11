@@ -13,10 +13,7 @@
                         <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/about">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/blog">Blog</a>
+                        <a class="nav-link" href="/meet-learana">Meet Learana</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/why-learana">Why Learana?</a>
@@ -25,10 +22,13 @@
                         <a class="nav-link" href="/discover">Discover</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="/blog">Blog</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="/login">Login</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/signup">Signup</a>
+                        <a class="nav-link" href="/get-started">Get Started</a>
                     </li>
                 </ul>
                 <form class="form-inline my-2 my-lg-0">

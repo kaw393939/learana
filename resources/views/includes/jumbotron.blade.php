@@ -1,4 +1,4 @@
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel topCallout slide" data-ride="carousel">
     <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -7,13 +7,13 @@
     <div class="carousel-inner">
         <div class="carousel-item active">
             <img class="first-slide"
-                 src="//placehold.it/1010x367"
+                 src="#"
                  alt="First slide">
             <div class="container">
                 <div class="carousel-caption text-left">
                     <h1>Everyone has something to teach. Everyone has something to learn.</h1>
                     <p>Meet Learana, where you can teach and learn online from real people</p>
-                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Become a Teacher</a></p>
+                    <p><a class="btn btn-lg btn-primary" href="#" role="button">Share your knowledge</a></p>
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@
             <div class="container">
                 <div class="carousel-caption text-left">
                     <h1>Create a learning experience</h1>
-                    <p>Combine recorded course content with real-time chat and web conferencing to create a personalized learning experiences</p>
+                    <p>Combine greate content with real-time chat and web conferencing to create a personalized learning experiences</p>
                     <p><a class="btn btn-lg btn-primary" href="#" role="button">Create</a></p>
                 </div>
             </div>

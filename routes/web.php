@@ -14,8 +14,8 @@
 Route::get('/', function () {
     return view('pages.index');
 });
-Route::get('/about', function () {
-    return view('pages.about');
+Route::get('/meet-learana', function () {
+    return view('pages.meet-learana');
 });
 
 Route::get('/blog', function () {
@@ -32,8 +32,12 @@ Route::get('/discover', function () {
 Route::get('/login', function () {
     return view('pages.login');
 });
-Route::get('/signup', function () {
+Route::get('/get-started', function () {
     return view('pages.signup');
+});
+
+Route::get('/profile', function () {
+    return view('pages.profile');
 });
 
 Route::group(['prefix' => 'admin'], function () {

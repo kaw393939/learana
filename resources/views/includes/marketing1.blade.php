@@ -1,5 +1,5 @@
 @extends('includes.card')
-@section('card')
+@section('decisions')
 
 <div class="card-body">
     <h3 class="card-title">Better Decisions</h3>

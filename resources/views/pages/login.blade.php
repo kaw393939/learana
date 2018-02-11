@@ -14,7 +14,7 @@
                                 <h3 class="mb-0">Login</h3>
                             </div>
                             <div class="card-body">
-                                <form class="form" role="form" autocomplete="off" id="formLogin">
+                                <form class="form" role="form" autocomplete="off" id="formLogin" action="/profile" method="GET">
                                     <div class="form-group">
                                         <label for="uname1">Username</label>
                                         <input type="text" class="form-control form-control-lg rounded-0" name="uname1" id="uname1" required="">
