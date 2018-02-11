@@ -28,7 +28,7 @@
                         <div class="carousel-caption text-left">
                             <h1>Understand Learner Enagement</h1>
                             <p>Learn how Learana can improve learning outcomes and increase productivity.</p>
-                            <p><a class="btn btn-lg btn-primary" href="/meet-learana" role="button">Meet Learana</a></p>
+                            <p><a class="btn btn-lg btn-primary" href="/why-learana" role="button">Why Learana</a></p>
                         </div>
                     </div>
                 </div>
@@ -38,9 +38,9 @@
                          alt="Third slide">
                     <div class="container">
                         <div class="carousel-caption text-right">
-                            <h1>Earn more money</h1>
-                            <p>Monetize your knowledge by offering private IM and web conferencing </p>
-                            <p><a class="btn btn-lg btn-primary" href="/why-learana" role="button">Why</a></p>
+                            <h1>eSchool Management</h1>
+                            <p> (Courses, Scheduling, Registration, and eCommerce)</p>
+                            <p><a class="btn btn-lg btn-primary" href="/meet-learana" role="button">Meet Learana</a></p>
                         </div>
                     </div>
                 </div>

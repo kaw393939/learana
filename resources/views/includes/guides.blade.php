@@ -1,6 +1,6 @@
 <div class="row featurette">
     <div class="card col-md-12 mt-4 mb-4">
-        <h2 class="featurette-heading">Guides</h2>
+        <h2 class="featurette-heading">eCommerce</h2>
         <p class="lead">Learana was created to support people that currently teach and people that have always wanted
             to. Learana helps people create meaningful and affordable educational experiences. Learana provides
             educators content usage analytics for online content(video,PDF,web) and integrates chat and web conferencing tools to offer

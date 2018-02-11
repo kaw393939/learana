@@ -17,10 +17,10 @@
                     </li>
                     <li class="nav-item">
 
-                        <a class="nav-link" href="/meet-learana">Meet Learana</a>
+                        <a class="nav-link" href="/why-learana">Why Learana?</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/why-learana">Why Learana?</a>
+                        <a class="nav-link" href="/meet-learana">Meet Learana</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/connect">Connect</a>

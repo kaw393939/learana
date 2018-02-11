@@ -8,6 +8,10 @@ body {
     color: #5a5a5a;
 }
 
+.learanaJumbotron {
+    background-image: url("../images/822524360.jpg");
+    background-size: contain;}
+}
 .Jumbotron {
     background-color: #2f363d;
 

@@ -2,7 +2,7 @@
 @section('content')
     <div class="row ml-auto mr-auto bgDark">
         <div class="container justify-content-center ">
-            <h1 class="text-center text-white">Discover Learning Experiences</h1>
+            <h1 class="text-center text-white">Share your experience with others.</h1>
             <p class="text-center text-white">Achieve your goals</p>
             <div class="card-deck">
                 <div class="card mb-3 pb-3">

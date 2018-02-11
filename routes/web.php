@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('pages.index');
 });
 Route::get('/meet-learana', function () {
-    return view('pages.meet-learana');
+    return view('pages.why');
 });
 
 Route::get('/connect', function () {
@@ -23,7 +23,7 @@ Route::get('/connect', function () {
 });
 
 Route::get('/why-learana', function () {
-    return view('pages.why');
+    return view('pages.meet-learana');
 });
 
 Route::get('/discover-online-courses', function () {
